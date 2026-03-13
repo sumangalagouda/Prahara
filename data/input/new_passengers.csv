@@ -1,0 +1,6 @@
+﻿PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+895,1,1,"Smith, Mr. John",male,35,0,0,TST005,150.0,C22,S
+896,0,3,"Jones, Ms. Mary",female,28,1,0,TST006,8.5,,Q
+897,1,2,"Brown, Mr. James",male,42,0,0,TST007,25.0,,S
+898,0,3,"Davis, Mrs. Anna",female,19,0,0,TST008,7.75,,S
+899,1,1,"Wilson, Mr. Tom",male,50,1,1,TST009,200.0,B45,C
