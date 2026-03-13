@@ -8,7 +8,7 @@ sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")
 from spark.delta_utils import get_spark_session, write_delta
 
 # Paths
-INPUT_PATH  = "data/input/titanic.csv"
+INPUT_PATH  = "data/input"
 BRONZE_PATH = "data/delta/bronze"
 
 def run():
